@@ -38,7 +38,7 @@ java -jar trippingo.jar
 4. API will be available on 8001 port of the localhost to be internally used by Python Flask fulfillment server
 
 #### Dialog Flow Chatbot
-1. Download the sg-travel-bot.zip file from this GitHub repository
+1. Download the SGTravelBot.zip file from this GitHub repository
 2. Import the chatbot into DialogFlow using this zip file
 3. Update Fulfillment tab to use the secure https ngrok tunnel created in the earlier step
 
