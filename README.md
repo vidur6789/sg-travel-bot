@@ -18,7 +18,9 @@ This chat bot has the following capabilities:
 pip install -r requirements.txt
 ```
 
-2. Replace Parameter {APIKEY} in app_main to your own Google Maps API key
+2. According to the Google Maps policy, API should not be show in public website.
+   For Github users: Please replace Parameter {APIKEY} in app_main/util_recommendation to your own Google Maps API key
+   For Luminus users: skip this step
 3. Execute app_main.py to start the Python Flask fulfillment server
 4. The webhook will start on the port 5000
 5. Use [ngrok](https://ngrok.com/download) to create a secure tunnel to localhost
