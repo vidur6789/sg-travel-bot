@@ -18,13 +18,16 @@ This chat bot has the following capabilities:
 pip install -r requirements.txt
 ```
 
-2. Execute app_main.py to start the Python Flask fulfillment server
-3. The webhook will start on the port 5000
-4. Use [ngrok](https://ngrok.com/download) to create a secure tunnel to localhost
+2. Replace Parameter {APIKEY} in app_main to your own Google Maps API key
+3. Execute app_main.py to start the Python Flask fulfillment server
+4. The webhook will start on the port 5000
+5. Use [ngrok](https://ngrok.com/download) to create a secure tunnel to localhost
 
 ```bash
 ngrok http 5000
 ```
+6. Invoke Chatbot with following request: 
+Talk to SG Travel Bot
 
 #### TripAdvisor Knowledge Base APIs
 
@@ -43,6 +46,7 @@ java -jar trippingo.jar
 3. Update Fulfillment tab to use the secure https ngrok tunnel created in the earlier step
 
 ## Example Use Cases
+
 
 #### Personalised  Attraction Recommendations
  - Things to do in Singapore
