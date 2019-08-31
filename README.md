@@ -28,7 +28,7 @@ ngrok http 5000
 
 #### TripAdvisor Knowledge Base APIs
 
-1. Download trippingo.jar into a new project directory from this GitHub [repository releases](https://pip.pypa.io/en/stable/)
+1. Download trippingo.jar into a new project directory from this GitHub [repository releases](https://github.com/vidur6789/trippingo/releases)
 2. Download datastore.mv.db from the same into a new sub-directory 'data'
 3. Navigate to project directory and execute the archive file as java application.
 ```bash
