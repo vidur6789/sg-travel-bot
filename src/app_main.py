@@ -37,7 +37,7 @@ REC_INTENTS = ['RecommendationIntent','TravellerTypeIntent', 'CategoryIntent', '
 INFO_ENTITIES = ['introduction','something', 'open', 'address', 'duration']
 
 #Google Maps API KEYS#
-APIKEY = 'AIzaSyAgU9a5eTrwZP9pIb0eNuNRu3iPE75tR-8'
+APIKEY = {APIKEY}
 
 #Load database#
  
