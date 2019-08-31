@@ -78,3 +78,7 @@ In cases when the user indicates an interest in travelling to an outdoor attract
  - dinosaur ->returns Lee Kong Chian Natural History Museum
 
 This functionality can be used as a standalone feature to search with keywords or imperfect spellings, Additionally, it serves as the default fallback intent when the user's query is unable to match any other intent of the chatbot. This will guide the user's conversation back to the one of the common chat bot functionalities by providing appropriate suggestion chips along with the matched attraction. 
+
+
+## Video
+https://youtu.be/7eIYvKm-8aY
