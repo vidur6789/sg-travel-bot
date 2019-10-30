@@ -5,7 +5,7 @@ joblib==0.13.2
 json5==0.8.4
 jsonschema==3.0.1
 Markdown==3.1.1
-nltk==3.4.4
+nltk==3.4.5
 numpy==1.16.4
 pandas==0.24.2
 requests==2.22.0
